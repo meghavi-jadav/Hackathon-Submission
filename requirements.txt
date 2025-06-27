@@ -1,0 +1,17 @@
+mistralai>=1.8.2
+fastapi==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+langchain>=0.1.9
+langchain-community>=0.0.24
+python-dotenv==1.0.1
+sentence-transformers==2.5.1
+numpy>=1.26.0,<2.0.0
+faiss-cpu>=1.7.4
+streamlit==1.31.1
+PyPDF2==3.0.1
+unstructured==0.11.8
+pdf2image==1.17.0
+pytesseract==0.3.10
+pdfminer.six==20221105
+pdfplumber==0.10.3 
