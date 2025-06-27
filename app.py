@@ -73,7 +73,7 @@ with st.sidebar:
         st.write(f"📄 Processed Documents: {unique_docs}")
 
 # Main content
-st.title("Policy & SOP Assistant")
+st.title("Policy Assistant")
 st.write("Ask questions about company policies and SOPs in natural language.")
 
 # Query input
