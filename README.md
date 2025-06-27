@@ -1,4 +1,4 @@
-# Policy & SOP Discovery AI Assistant
+# Policy AI Assistant
 
 An AI-powered assistant that helps employees find information from internal policy documents and SOPs using natural language queries.
 
